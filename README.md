@@ -47,4 +47,4 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide.
 
 Git has a mutable index called stage.
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
